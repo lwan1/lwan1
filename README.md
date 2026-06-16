@@ -5,6 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/leon-wan">
+    <img src="https://img.shields.io/badge/LinkedIn-Leon%20Wan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
