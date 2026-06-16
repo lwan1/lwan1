@@ -43,10 +43,6 @@
     <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="40" height="40"/>
   </a>
 
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="40" height="40"/>
-  </a>
-
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -63,9 +59,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lwan1&show_icons=true&locale=en&layout=compact" alt="lwan1" /></p>
