@@ -1,7 +1,7 @@
 <img src="https://github.com/lwan1/lwan1/blob/main/Banner%20(made%20with%20REHeader).png" alt="Leon's Banner">
 
 <h1 align="center">My Profile</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Software Developer & Machine Learning Practitioner</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
