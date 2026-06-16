@@ -3,9 +3,6 @@
 <h1 align="center">My Profile</h1>
 <h3 align="center">A passionate software developer</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lwan1" alt="lwan1" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
